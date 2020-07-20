@@ -4,3 +4,6 @@ Honda
 BMW
 Jaguar
 Tesla
+Kia
+Audi
+Mercedes

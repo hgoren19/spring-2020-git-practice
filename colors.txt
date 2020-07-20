@@ -6,3 +6,4 @@ purple
 white
 green
 yellow
+violet

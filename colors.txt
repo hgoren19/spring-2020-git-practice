@@ -3,3 +3,4 @@ black
 pink
 blue
 purple
+white
